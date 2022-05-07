@@ -1,0 +1,131 @@
+
+{
+  "mystery": [
+    {
+      "id": 1,
+      "title": "Sherlock Holmes ",
+      "author": "Arthur Conan Doyle",
+      "description": "Referring to himself as a consulting detective in the stories, Holmes is known for his proficiency with observation, deduction, forensic science and logical reasoning that borders on the fantastic, which he employs when investigating cases for a wide variety of clients, including Scotland Yard.",
+      "price": "596",
+      "isbn": "3456767",
+      "book_image": "https://the-bibliofile.com/wp-content/uploads/detectivenovelsblogimage.jpg",
+      "reviews": "rev"
+    },
+    {
+      "id": 2,
+      "title": "Death On The River",
+      "author": "Clare Chase",
+      "description": "Referring to himself as a consulting detective in the stories, Holmes is known for his proficiency with observation, deduction, forensic science and logical reasoning that borders on the fantastic, which he employs when investigating cases for a wide variety of clients, including Scotland Yard.",
+      "price": "3456",
+      "isbn": "3456767",
+      "book_image": "https://m.media-amazon.com/images/I/51lmjHXbUbL.jpg",
+      "reviews": "rev"
+    },
+    {
+      "id": 3,
+      "title": "The Maid",
+      "author": "Nita Prose",
+      "description": "Referring to himself as a consulting detective in the stories, Holmes is known for his proficiency with observation, deduction, forensic science and logical reasoning that borders on the fantastic, which he employs when investigating cases for a wide variety of clients, including Scotland Yard.",
+      "price": "789",
+      "isbn": "3456767",
+      "book_image": "https://shereads.com/wp-content/uploads/2021/10/TheMaid_NitaProse.jpg",
+      "reviews": "rev"
+    }
+  ],
+  "technology": [
+    {
+      "id": 1,
+      "title": "The Four",
+      "author": "Scott Galloway",
+      "description": "Referring to himself as a consulting detective in the stories, Holmes is known for his proficiency with observation, deduction, forensic science and logical reasoning that borders on the fantastic, which he employs when investigating cases for a wide variety of clients, including Scotland Yard.",
+      "price": "234",
+      "isbn": "3456767",
+      "book_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRg-jbhNpxPncpjCRORRuyylqNMsc3T2dA9Q&usqp=CAU",
+      "reviews": "good"
+    },
+    {
+      "id": 2,
+      "title": "Race After Technolgy",
+      "author": "Ruha Benjamin",
+      "description": "Referring to himself as a consulting detective in the stories, Holmes is known for his proficiency with observation, deduction, forensic science and logical reasoning that borders on the fantastic, which he employs when investigating cases for a wide variety of clients, including Scotland Yard.",
+      "price": "456",
+      "isbn": "3456767",
+      "book_image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1576795927l/42527493._SY475_.jpg",
+      "reviews": "excellent"
+    },
+    {
+      "id": 3,
+      "title": "The Turning Point",
+      "author": "John R ellen",
+      "description": "Referring to himself as a consulting detective in the stories, Holmes is known for his proficiency with observation, deduction, forensic science and logical reasoning that borders on the fantastic, which he employs when investigating cases for a wide variety of clients, including Scotland Yard.",
+      "price": "567",
+      "isbn": "3456767",
+      "book_image": "https://m.media-amazon.com/images/I/419pEeoGk3L.jpg",
+      "reviews": "must read"
+    }
+  ],
+  "mythology": [
+    {
+      "id": 1,
+      "title": "Timeless Tales of God and Heroes",
+      "author": "Edith Hamilton",
+      "description": "Referring to himself as a consulting detective in the stories, Holmes is known for his proficiency with observation, deduction, forensic science and logical reasoning that borders on the fantastic, which he employs when investigating cases for a wide variety of clients, including Scotland Yard.",
+      "price": "231",
+      "isbn": "3456767",
+      "book_image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1539362269i/26439999._SX540_.jpg",
+      "reviews": "excellent"
+    },
+    {
+      "id": 2,
+      "title": "Greek Myths",
+      "author": "Daularies",
+      "description": "Referring to himself as a consulting detective in the stories, Holmes is known for his proficiency with observation, deduction, forensic science and logical reasoning that borders on the fantastic, which he employs when investigating cases for a wide variety of clients, including Scotland Yard.",
+      "price": "346",
+      "isbn": "3456767",
+      "book_image": "https://img.readthistwice.com/unsafe/480x720/books/5c10e48b-577c-426b-b85d-724a671dd597.jpg",
+      "reviews": "must read"
+    },
+    {
+      "id": 3,
+      "title": "Greek Gods",
+      "author": "Patrick",
+      "description": "Referring to himself as a consulting detective in the stories, Holmes is known for his proficiency with observation, deduction, forensic science and logical reasoning that borders on the fantastic, which he employs when investigating cases for a wide variety of clients, including Scotland Yard.",
+      "price": "980",
+      "isbn": "3456767",
+      "book_image": "https://m.media-amazon.com/images/I/51GEntTdqkL.jpg",
+      "reviews": "good"
+    }
+  ],
+  "history": [
+    {
+      "id": 1,
+      "title": "The History of Indian World",
+      "author": "Susan Wise",
+      "description": "Referring to himself as a consulting detective in the stories, Holmes is known for his proficiency with observation, deduction, forensic science and logical reasoning that borders on the fantastic, which he employs when investigating cases for a wide variety of clients, including Scotland Yard.",
+      "price": "1009",
+      "isbn": "3456767",
+      "book_image": "https://img.dtcn.com/image/themanual/the-history-of-the-ancient-world-by-susan-wise-bauer-book-500x500.jpg",
+      "reviews": "must read"
+    },
+    {
+      "id": 2,
+      "title": "Gittle's Journey",
+      "author": "Leslea Newmen",
+      "description": "Referring to himself as a consulting detective in the stories, Holmes is known for his proficiency with observation, deduction, forensic science and logical reasoning that borders on the fantastic, which he employs when investigating cases for a wide variety of clients, including Scotland Yard.",
+      "price": "756",
+      "isbn": "3456767",
+      "book_image": "https://i0.wp.com/www.getepic.com/learn/wp-content/uploads/2021/05/Gittels-Journey-An-Ellis-Island-Story.jpg?w=584&ssl=1",
+      "reviews": "excellent"
+    },
+    {
+      "id": 3,
+      "title": "The Puffin History Of India",
+      "author": "Roshan Dalai",
+      "description": "Referring to himself as a consulting detective in the stories, Holmes is known for his proficiency with observation, deduction, forensic science and logical reasoning that borders on the fantastic, which he employs when investigating cases for a wide variety of clients, including Scotland Yard.",
+      "price": "999",
+      "isbn": "3456767",
+      "book_image": "https://akm-img-a-in.tosshub.com/sites/dailyo//story/embed/201508/dalal_081115033741.jpg",
+      "reviews": "very good"
+    }
+  ]
+}
